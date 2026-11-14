@@ -1,0 +1,37 @@
+0:01:54 Tab2 WebContentsDestroyed
+0:01:54 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:01:54 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:01:54 Microsoft.Shutdown.OnWindowClosing
+0:01:54 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:01:54 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:01:54 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:01:54 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:01:54 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:01:54 Widget Closed: BrowserWidget
+0:01:54 Microsoft.UnloadController.TabStripEmpty
+0:01:54 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+0:01:54 Microsoft.Shutdown.OnWindowClosing
+0:01:54 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+0:01:54 Microsoft.Browser_Removed
+0:02:20 Tab1 StartNav17 #typed
+0:02:20 Tab1 FinishNav17
+0:02:20 Tab1 PageLoad
+0:02:43 Tab1 StartNav18 #typed
+0:02:43 Tab1 FinishNav18
+0:02:43 Tab1 PageLoad
+0:18:44 Tab1 StartNav19 #typed
+0:18:44 Tab1 FinishNav19
+0:18:44 Tab1 PageLoad
+0:18:55 Tab1 StartNav20 #typed
+0:18:55 Tab1 FinishNav20
+0:18:55 Tab1 PageLoad
+0:19:06 Tab1 StartNav21 #typed
+0:19:06 Tab1 FinishNav21
+0:19:06 Tab1 PageLoad
+0:24:53 Tab1 StartNav22 #typed
+0:24:53 Tab1 FinishNav22
+0:24:53 Tab1 PageLoad
+1:03:41 Tab1 StartNav23 #typed
+1:03:41 Tab1 FinishNav23
+1:03:41 Tab1 PageLoad
+1:03:45 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp

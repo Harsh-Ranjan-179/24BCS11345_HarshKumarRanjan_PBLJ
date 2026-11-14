@@ -1,0 +1,20 @@
+package input;
+
+import java.util.Scanner;
+
+public class Input {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int num = sc.nextInt();
+		System.out.println(num);
+		
+		float ft = sc.nextFloat();
+		
+		boolean b = sc.nextBoolean();
+		
+		String s = sc.nextLine();
+	}
+
+}
